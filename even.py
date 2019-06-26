@@ -1,5 +1,5 @@
 p=int(input())
-if n%2==0:
- print("even")
+if p%2==0:
+ print("Even")
 else:
- print("odd")
+ print("Odd")
